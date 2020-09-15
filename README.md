@@ -7,7 +7,7 @@ This app for frontend development.
 ### 1 Clone repository
 
 ```
-git clone https://github.com/le2xx/simple-frontend-starter-kit.git new-project
+git clone https://github.com/le2xx/simple-frontend-starter-kit-with-ts.git new-project
 cd new-project
 ```
 
