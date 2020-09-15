@@ -29,7 +29,10 @@ module.exports = {
       },
       {
         test: /\.ts$/,
-        loader: 'ts-loader'
+        loader: 'ts-loader',
+        resolve: {
+          extensions: ['.ts', '.js', '.json']
+        }
       },
       {
         test: /\.scss$/,
